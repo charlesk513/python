@@ -1,7 +1,7 @@
 header1 = "STUDENT'S GRADING SYSTEM"
-header2 = "COMPUTER SCIENCE      2025  SEMESTER ONE"
-print(header1.center(100))
+header2 = "PERFECTION IS THE ENEMY OF PRORESS"
 print(header2.center(100))
+print(header1.center(100))
 
 name = input("Enter your name: ")
 reg_number = input("\nRegistration number: ")
