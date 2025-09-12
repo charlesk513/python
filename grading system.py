@@ -23,6 +23,7 @@ while counter <= numberOfCourseUnits:
         print(f"The grade for {course_unit} is: ", end=' ')
         if (score >= 95):
             print("A+")
+            
         elif(score >= 80):
             print("A")
             
