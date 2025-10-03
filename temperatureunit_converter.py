@@ -1,10 +1,11 @@
 
+#this function is for changing the temperature given from Celsius to fahrenheit
 def Fahrenheit(temperature):
     result = (temperature * (9/5)) + 32
     print(f"The temperature {temperature}C is {result}F.")
     return result
 
-
+#this function is for changing the temperature given from fahrenheit to celsius
 def Celsius(temperature):
     result = (temperature - 32)* (5/9)
     print(f"The temperature {temperature}F is {result}C.")
