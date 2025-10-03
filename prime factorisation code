@@ -6,7 +6,7 @@ if number == 2:
     print("Its a prime number")
 else:
     
-    while i < number:
+    while i < number: 
         modulus = number % i
         otherNo = number / i
         if modulus == 0:
