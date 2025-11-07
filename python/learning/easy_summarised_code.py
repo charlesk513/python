@@ -1,0 +1,1 @@
+isinstance(object, type)  #used to check if a variable or object belongs to that spacific data type 

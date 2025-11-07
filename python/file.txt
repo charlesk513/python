@@ -1,0 +1,2 @@
+This is my text file that i am using in file handling research.
+Great to be on this platform.
